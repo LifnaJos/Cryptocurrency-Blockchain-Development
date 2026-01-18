@@ -8,7 +8,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 | 1 | End Semester Exam | 60 Marks |  |  |
 | 2 | Internal Assessment | 20 Marks |  |  |
 | 3 | Continuous Assessment | 20 Marks | | | 
-|   | a. Case Study with Presentation (Group of 2 / Individual) | 10 Marks | [Template]() | 2nd week of Feb. 2026 |
+|   | a. Case Study with Presentation (Group of 2 / Individual) | 10 Marks | [Case Study-Topics](https://drive.google.com/file/d/1e7yWfl3ogD5-B3oCkGXRAZirQDo3xmmk/view?usp=sharing), [PPT-Contents]() | 2nd week of Feb. 2026 |
 |   | b. MCQ-1 | 5 Marks | [Modules 1 to 3](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf)| before Mid Term 2026| 
 |   | c. MCQ-2 | 5 Marks | [Modules 4 to 6](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf)| 4th week of Mar. 2026 | 
 |   | d. Certification Course (optional) | 5 / 10 Marks | | |
@@ -23,7 +23,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 | 2. | Lab Syllabus | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |
 | 3. | Lecture Plan |  |
 | 4. | Lab Plan |  |
-| 5. | Case Study Topics | [CS-Topics](https://drive.google.com/file/d/1e7yWfl3ogD5-B3oCkGXRAZirQDo3xmmk/view?usp=sharing) |
+| 5. | Case Study Topics |  |
 | 6. | Lab Manual | |
 | 7. | Index Page | |
 | 7. | Attendance Sheet | |
