@@ -2,6 +2,18 @@
 
 Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Pradyna Raut 
 
+## Important Documents
+| No | Document Name | Document |
+|:-: |------------- | :--------: |
+| 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf) |
+| 2. | Lab Syllabus | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |
+| 3. | Lecture Plan |  |
+| 4. | Lab Plan |  |
+| 5. | Case Study Topics |  |
+| 6. | Lab Instructions | [CBD Lab](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development-Lab) |
+| 7. | Index Page | |
+| 7. | Attendance Sheet | |
+
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document | Schedule |
 | :--: | ------------------ | :----: | :--------:| :------------:|
@@ -16,17 +28,6 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 **Note** : Other Rubrics from Syllabus are allowed on a case to case performance basis
 
-## Important Documents
-| No | Document Name | Document |
-|:-: |------------- | :--------: |
-| 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf) |
-| 2. | Lab Syllabus | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |
-| 3. | Lecture Plan |  |
-| 4. | Lab Plan |  |
-| 5. | Case Study Topics |  |
-| 6. | Lab Instructions | [CBD Lab](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development-Lab) |
-| 7. | Index Page | |
-| 7. | Attendance Sheet | |
 
 ## Prerequisite: Knowledge on number systems
 
