@@ -1,5 +1,7 @@
 # CA-1 : Case Study on Blockchain Applications in Real World 
 
+**Note: Topics chosen from the list should be implementable as a part of Expt. 8 & 9 Lab work**
+
 ## Topics to be covered in the PPT:
 1. Problems in the identified domain of interest
 2. Blockchain based solutions to the exisitng problems in the domain
