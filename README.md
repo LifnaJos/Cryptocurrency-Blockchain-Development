@@ -24,7 +24,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 | 3. | Lecture Plan |  |
 | 4. | Lab Plan |  |
 | 5. | Case Study Topics |  |
-| 6. | Lab Manual | |
+| 6. | Lab Instructions | [CBD Lab](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development-Lab) |
 | 7. | Index Page | |
 | 7. | Attendance Sheet | |
 
