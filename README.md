@@ -1,6 +1,6 @@
 # Course : Cryptocurrency-Blockchain-Development (NMCPC62)
 
-Faculty Incharge : Geocey Shijy, [Lifna C S](mailto:lifna.cs@ves.ac.in), Pradnya Raut
+Faculty Incharges : Geocey Shijy, [Lifna C S](mailto:lifna.cs@ves.ac.in), Pradnya Raut
 
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document | Schedule |
