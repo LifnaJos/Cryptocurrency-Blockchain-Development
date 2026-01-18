@@ -1,6 +1,6 @@
 # Course : Cryptocurrency-Blockchain-Development (NMCPC62)
 
-Faculty Incharges : Prof. Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Prof. Pradyna Raut 
+Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Pradyna Raut 
 
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document | Schedule |
