@@ -20,7 +20,7 @@ Faculty Incharge : Geocey Shijy, [Lifna C S](mailto:lifna.cs@ves.ac.in), Pradnya
 | No | Document Name | Document |
 |:-: |------------- | :--------: |
 | 1. | Theory Syllabus | [Th-Syllabus]() |
-| 2. | Lab Syllabus | [Lab-Syllabus]() |
+| 2. | Lab Syllabus | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |
 | 3. | Lecture Plan |  |
 | 4. | Lab Plan |  |
 | 5. | Case Study Topics | [CS-Topics](https://drive.google.com/file/d/1e7yWfl3ogD5-B3oCkGXRAZirQDo3xmmk/view?usp=sharing) |
