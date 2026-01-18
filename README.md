@@ -19,7 +19,7 @@ Faculty Incharge : Geocey Shijy, [Lifna C S](mailto:lifna.cs@ves.ac.in), Pradnya
 ## Important Documents
 | No | Document Name | Document |
 |:-: |------------- | :--------: |
-| 1. | Theory Syllabus | [Th-Syllabus]() |
+| 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf) |
 | 2. | Lab Syllabus | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |
 | 3. | Lecture Plan |  |
 | 4. | Lab Plan |  |
