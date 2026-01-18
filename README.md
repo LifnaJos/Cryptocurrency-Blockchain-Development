@@ -8,9 +8,9 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 | 1 | End Semester Exam | 60 Marks |  |  |
 | 2 | Internal Assessment | 20 Marks |  |  |
 | 3 | Continuous Assessment | 20 Marks | | | 
-|   | a. Case Study with Presentation (Group of 2 / Individual) | 10 Marks |  |  |
-|   | b. MCQ-1 (Modules 1 to 3) | 5 Marks | | | 
-|   | c. MCQ-2 (Modules 4 to 6)  | 5 Marks | | | 
+|   | a. Case Study with Presentation (Group of 2 / Individual) | 10 Marks | [Template]() | 2nd week of Feb. 2026 |
+|   | b. MCQ-1 | 5 Marks | [Modules 1 to 3](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf)| before Mid Term| 
+|   | c. MCQ-2 | 5 Marks | [Modules 4 to 6](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf)| 4th week of Mar. 2026 | 
 |   | d. Certification Course (optional) | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | |
 
