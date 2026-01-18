@@ -8,7 +8,7 @@ Faculty Incharge : Geocey Shijy, [Lifna C S](mailto:lifna.cs@ves.ac.in), Pradnya
 | 1 | End Semester Exam | 60 Marks |  |  |
 | 2 | Internal Assessment | 20 Marks |  |  |
 | 3 | Continuous Assessment | 20 Marks | | | 
-|   | a. Case Study with Presentation | 10 Marks |  |  |
+|   | a. Case Study with Presentation (Group of 2 / Individual) | 10 Marks |  |  |
 |   | b. MCQ-1 (Modules 1 to 3) | 5 Marks | | | 
 |   | c. MCQ-2 (Modules 4 to 6)  | 5 Marks | | | 
 |   | d. Certification Course (optional) | 5 / 10 Marks | | |
