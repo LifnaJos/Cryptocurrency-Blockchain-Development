@@ -47,6 +47,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 ## Module - 1: Introduction to Cryptocurrency and Blockchain (7 Hours)
 1.1 History and Evolution of Money and Digital Currencies, Understanding Cryptocurrencies: Concepts, Types, and Benefits, Blockchain Technology Fundamentals: Distributed Ledgers and Immutability
+
 1.2 Consensus Mechanisms: Proof of Work (PoW), Proof of Stake (PoS), and Alternatives, Key Components of Blockchain: Cryptography, Hashing, and Mining, Applications of Blockchain Beyond Cryptocurrencies (Supply Chain, Healthcare, etc.), Blockchain’s Role in Decentralization and the Future of Web3
 
 * Theory : 
@@ -61,6 +62,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 ## Module - 2: Blockchain Architecture and Platforms (6 Hours)
 2.1 Anatomy of a Blockchain: Blocks, Transactions, and Nodes, Types of Blockchains: Public, Private, Consortium, and Hybrid, Exploring Key Blockchain Platforms: Bitcoin, Ethereum, Hyperledger, and Binance Smart Chain.
+
 2.2 Smart Contracts: Concept, Structure, and Applications, Overview of Decentralized Applications (DApps) and Token Standards (ERC-20, ERC-721, etc.), Security Aspects of Blockchain: Attacks, Challenges, and Mitigation Techniques
 
 * Theory : 
@@ -68,12 +70,14 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
   
 ## Module - 3: Cryptocurrency Ecosystem and Wallets (6 Hours)
 3.1 Popular Cryptocurrencies: Bitcoin, Ethereum, Ripple, and Altcoins, Cryptocurrency Mining: Mechanisms, Challenges, and Rewards, Cryptocurrency Wallets: Hot vs. Cold Wallets, Multi-Signature Wallets.
+
 3.2 Securing Wallets: Threats, Recovery Methods, and Best Practices, Cryptocurrency Exchanges: Types, Trading Mechanisms, and Risks, Regulatory and Legal Frameworks for Cryptocurrencies Globally
 
 * Theory : 
     
 ## Module - 4: Smart Contracts and Development (7 Hours)
 4.1 Introduction to Solidity Programming Language, Setting Up Development Environments: Truffle, Ganache, and Remix IDE, Writing and Deploying Basic Smart Contracts, Smart Contract Lifecycle, Gas Optimization, and Fees
+
 4.2 Advanced Solidity Concepts: Libraries, Modifiers, and Events, Debugging, Testing, and Security Best Practices for Smart Contracts, Integration of Smart Contracts with Blockchain Networks
 
 * Theory :
@@ -91,6 +95,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
     
 ## Module - 5: Building Decentralized Applications (DApps) (7 Hours)
 5.1 Architecture of Decentralized Applications, Interaction Between Smart Contracts and Frontend Using Web3.js, Tools for DApp Development: Web3.js, Ethers.js, and Metamask
+
 5.2 Building and Deploying a Simple DApp on Ethereum Testnet, Integrating Cryptocurrency Payments in DApps Using Payment Gateways, Performance Optimization and Scaling Solutions for DApps, Testing and Deploying DApps to Production Environments
 
 * Theory:  
@@ -115,6 +120,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 ## Module - 6: Advanced Topics and Trends in Blockchain (6 Hours)
 6.1 Layer-2 Scaling Solutions: Polygon, Lightning Network, and Optimistic Rollups, Decentralized Finance (DeFi): Protocols, Platforms, and Applications, Non-Fungible Tokens (NFTs): Standards, Creation, and Marketplace Integration Blockchain Interoperability: Bridging Between Different Networks, Blockchain’s Role in Emerging Technologies: AI, IoT, and Metaverse
+
 6.2 Case Study: End-to-End Development and Deployment of a Blockchain-Based Solution for any domain
 
 * Theory: 
