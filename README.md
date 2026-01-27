@@ -2,14 +2,14 @@
 
 Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Pradyna Raut 
 
-## Important Documents
+## 1. Important Documents
 | No | Document Name | Document |
 |:-: |------------- | :--------: |
 | 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf) |
 | 2. | Lab Syllabus | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |
 | 3. | Lab Instructions | [CBD Lab](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development-Lab) |
 
-## Evaluation Scheme
+## 2. Evaluation Scheme
 | No | Rubrics | Marks | Document | Schedule |
 | :--: | ------------------ | :----: | :--------:| :------------:|
 | 1 | End Semester Exam | 60 Marks |  |  |
@@ -23,16 +23,15 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 **Note** : Other Rubrics from Syllabus are allowed on a case to case performance basis
 
-
 ## Prerequisite: Knowledge on number systems
 
-## Course Objectives
+## 3. Course Objectives
 1. To provide an in-depth understanding of blockchain technology and cryptocurrency ecosystems, including their applications and limitations.
 2. To equip students with the skills needed to design, develop, and deploy secure blockchain solutions and smart contracts.
 3. To explore the ecosystem of decentralized applications, focusing on their architecture, development, and integration with blockchain networks.
 4. To introduce advanced topics like DeFi, NFTs, scalability, and blockchain’s role in emerging technologies for industry-oriented learning.
 
-## Course Outcomes: Students will be able
+## 4. Course Outcomes: Students will be able
 1. Understand the principles, architecture, and applications of blockchain and cryptocurrencies.
 2. Analyze and evaluate the features of major blockchain platforms and their use cases.
 3. Design and implement secure cryptocurrency wallets and manage transactions effectively.
@@ -40,7 +39,9 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 5. Build and optimize decentralized applications (DApps) with cryptocurrency payment integration.
 6. Assess and implement advanced blockchain solutions like DeFi, NFTs, and layer-2 scalability techniques.
 
-## Module - 1: Introduction to Cryptocurrency and Blockchain (7 Hours)
+
+## 5. Module-wise Theory Contents
+#### Module - 1: Introduction to Cryptocurrency and Blockchain (7 Hours)
 1.1 History and Evolution of Money and Digital Currencies, Understanding Cryptocurrencies: Concepts, Types, and Benefits, Blockchain Technology Fundamentals: Distributed Ledgers and Immutability
 
 1.2 Consensus Mechanisms: Proof of Work (PoW), Proof of Stake (PoS), and Alternatives, Key Components of Blockchain: Cryptography, Hashing, and Mining, Applications of Blockchain Beyond Cryptocurrencies (Supply Chain, Healthcare, etc.), Blockchain’s Role in Decentralization and the Future of Web3
@@ -55,7 +56,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
   4. [Blockchain Demo - 4 (IIT Kanpur)](https://ict.iitk.ac.in/product/introduction-to-blockchain-demo/)
   5. [Merkle Tree - Demo 1](https://prathamudeshmukh.github.io/merkle-tree-demo/)
 
-## Module - 2: Blockchain Architecture and Platforms (6 Hours)
+#### Module - 2: Blockchain Architecture and Platforms (6 Hours)
 2.1 Anatomy of a Blockchain: Blocks, Transactions, and Nodes, Types of Blockchains: Public, Private, Consortium, and Hybrid, Exploring Key Blockchain Platforms: Bitcoin, Ethereum, Hyperledger, and Binance Smart Chain.
 
 2.2 Smart Contracts: Concept, Structure, and Applications, Overview of Decentralized Applications (DApps) and Token Standards (ERC-20, ERC-721, etc.), Security Aspects of Blockchain: Attacks, Challenges, and Mitigation Techniques
@@ -63,14 +64,14 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 * Theory : 
 * Online Materials : 
   
-## Module - 3: Cryptocurrency Ecosystem and Wallets (6 Hours)
+#### Module - 3: Cryptocurrency Ecosystem and Wallets (6 Hours)
 3.1 Popular Cryptocurrencies: Bitcoin, Ethereum, Ripple, and Altcoins, Cryptocurrency Mining: Mechanisms, Challenges, and Rewards, Cryptocurrency Wallets: Hot vs. Cold Wallets, Multi-Signature Wallets.
 
 3.2 Securing Wallets: Threats, Recovery Methods, and Best Practices, Cryptocurrency Exchanges: Types, Trading Mechanisms, and Risks, Regulatory and Legal Frameworks for Cryptocurrencies Globally
 
 * Theory : 
     
-## Module - 4: Smart Contracts and Development (7 Hours)
+#### Module - 4: Smart Contracts and Development (7 Hours)
 4.1 Introduction to Solidity Programming Language, Setting Up Development Environments: Truffle, Ganache, and Remix IDE, Writing and Deploying Basic Smart Contracts, Smart Contract Lifecycle, Gas Optimization, and Fees
 
 4.2 Advanced Solidity Concepts: Libraries, Modifiers, and Events, Debugging, Testing, and Security Best Practices for Smart Contracts, Integration of Smart Contracts with Blockchain Networks
@@ -88,7 +89,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
   - [Cheat Sheet for Solidity](https://docs.soliditylang.org/en/latest/cheatsheet.html#global-variables)
   - [Quicknode - Documentation](https://www.quicknode.com/guides/ethereum-development/smart-contracts/solidity-vs-vyper)
     
-## Module - 5: Building Decentralized Applications (DApps) (7 Hours)
+#### Module - 5: Building Decentralized Applications (DApps) (7 Hours)
 5.1 Architecture of Decentralized Applications, Interaction Between Smart Contracts and Frontend Using Web3.js, Tools for DApp Development: Web3.js, Ethers.js, and Metamask
 
 5.2 Building and Deploying a Simple DApp on Ethereum Testnet, Integrating Cryptocurrency Payments in DApps Using Payment Gateways, Performance Optimization and Scaling Solutions for DApps, Testing and Deploying DApps to Production Environments
@@ -113,24 +114,24 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
       - [PPT](https://drive.google.com/file/d/15GBrzTdR7h8S_M6M2FHbqjO66jgZI-ts/view?usp=sharing)
       - [Video Link](https://drive.google.com/file/d/1dC6JxEVBfGLeCHQpUTntIDJmfk12Ozhe/view?usp=sharing)
 
-## Module - 6: Advanced Topics and Trends in Blockchain (6 Hours)
+#### Module - 6: Advanced Topics and Trends in Blockchain (6 Hours)
 6.1 Layer-2 Scaling Solutions: Polygon, Lightning Network, and Optimistic Rollups, Decentralized Finance (DeFi): Protocols, Platforms, and Applications, Non-Fungible Tokens (NFTs): Standards, Creation, and Marketplace Integration Blockchain Interoperability: Bridging Between Different Networks, Blockchain’s Role in Emerging Technologies: AI, IoT, and Metaverse
 
 6.2 Case Study: End-to-End Development and Deployment of a Blockchain-Based Solution for any domain
 
 * Theory: 
 
-## Textbooks 
+## 6. Textbooks 
 1. "Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications" by Imran Bashir
 2. "Blockchain Basics: A Non-Technical Introduction in 25 Steps" by Daniel Drescher
 3. "Solidity Programming Essentials: A Beginner's Guide to Build Smart Contracts for Ethereum and Blockchain" by Ritesh Modi
 
-## Reference Books:
+## 7. Reference Books:
 1. "Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World" by Don Tapscott and Alex Tapscott
 2. "Cryptocurrency: How Bitcoin and Digital Money are Challenging the Global Economic Order" by Paul Vigna and Michael J. Casey
 3. "The Basics of Bitcoins and Blockchains" by Antony Lewis
   
-## Useful Links (Online Resources / Industry articles / Case Studies)
+## 8. Useful Links (Online Resources / Industry articles / Case Studies)
 1. Blockchain By Example, Bellaj Badr, Richard Horrocks, Xun (Brian) Wu, November 2018, Implement decentralized blockchain applications to build scalable Dapps.
 2. [Blockchain for Business](https://www.ibm.com/downloads/cas/3EGWKGX7)
 3. [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
@@ -141,10 +142,10 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 8. https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3
 9. https://coingeek.com/blockchain101/a-guide-to-ai-driven-solutions-for-strengthening-blockchain-security/?utm_source=chatgpt.com
 
-## AI Tools
+## 9.  AI Tools
 1. https://www.chaingpt.org
 2. https://www.anchain.ai/ciso
 3. https://workik.com/blockchain-code-generator
 
-## Acknowledgements
+## 10. Acknowledgements
 * This material was prepared as a part of **Cryptocurrency & Blockchain Developemnt** course offered by the **Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai)** to the Third Year Students of Computer Engineering during the Academic Year 2025-26.
