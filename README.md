@@ -44,7 +44,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 1.2 Consensus Mechanisms: Proof of Work (PoW), Proof of Stake (PoS), and Alternatives, Key Components of Blockchain: Cryptography, Hashing, and Mining, Applications of Blockchain Beyond Cryptocurrencies (Supply Chain, Healthcare, etc.), Blockchain’s Role in Decentralization and the Future of Web3
 
-* Theory : 
+* Theory : [PPT-Module 1](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M1-NEP-Sem-6-CBD-Student.pdf)
 * YoutTube : [Vitalik explains Ethereuem](https://www.youtube.com/watch?v=TDGq4aeevgY&t=205s)
   
 * Online Materials :
