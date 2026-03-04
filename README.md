@@ -67,7 +67,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 3.2 Securing Wallets: Threats, Recovery Methods, and Best Practices, Cryptocurrency Exchanges: Types, Trading Mechanisms, and Risks, Regulatory and Legal Frameworks for Cryptocurrencies Globally
 
-* Theory : 
+* Theory : [PPT-theory](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M3-NEP-Sem-6-CBD-Faculty.pdf)
     
 #### Module - 4: Smart Contracts and Development (7 Hours)
 4.1 Introduction to Solidity Programming Language, Setting Up Development Environments: Truffle, Ganache, and Remix IDE, Writing and Deploying Basic Smart Contracts, Smart Contract Lifecycle, Gas Optimization, and Fees
