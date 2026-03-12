@@ -10,7 +10,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 ## 2. Evaluation Scheme
 | No | Rubrics | Marks | Document | Schedule |
 | :--: | ------------------ | :----: | :--------:| :------------:|
-| 1 | End Semester Exam | 60 Marks |  |  |
+| 1 | End Semester Exam | 60 Marks |  | 11th - 26th May 2026 |
 | 2 | Internal Assessment | 20 Marks | [MT-QP-2025-26](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/MT-QP-NMCPC62-CBD-25-26.pdf) </br> [MT-QP-2025-26-Key](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/MT-QP-NMCPC62-CBD-25-26_Solution.pdf) | 9th March 2026  |
 | 3 | Continuous Assessment | 20 Marks | | | 
 | a. | Case Study with Presentation <br> (Group of 2 / Individual) | 10 Marks | [Case Study-Topics](https://drive.google.com/file/d/1e7yWfl3ogD5-B3oCkGXRAZirQDo3xmmk/view?usp=sharing) <br> [PPT-Contents](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CA-1-CaseStudy.md) | 2nd week of Mar. 2026 |
