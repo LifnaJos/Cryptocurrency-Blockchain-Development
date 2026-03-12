@@ -13,7 +13,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 | 1 | End Semester Exam | 60 Marks |  |  |
 | 2 | Internal Assessment | 20 Marks | [MT-QP-2025-26](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/MT-QP-NMCPC62-CBD-25-26.pdf) </br> [MT-QP-2025-26-Key](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/MT-QP-NMCPC62-CBD-25-26_Solution.pdf) | 9th March 2026  |
 | 3 | Continuous Assessment | 20 Marks | | | 
-| a. | Case Study with Presentation <br> (Group of 2 / Individual) | 10 Marks | [Case Study-Topics](https://drive.google.com/file/d/1e7yWfl3ogD5-B3oCkGXRAZirQDo3xmmk/view?usp=sharing) <br> [PPT-Contents](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CA-1-CaseStudy.md) | 2nd week of Feb. 2026 |
+| a. | Case Study with Presentation <br> (Group of 2 / Individual) | 10 Marks | [Case Study-Topics](https://drive.google.com/file/d/1e7yWfl3ogD5-B3oCkGXRAZirQDo3xmmk/view?usp=sharing) <br> [PPT-Contents](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CA-1-CaseStudy.md) | 2nd week of Mar. 2026 |
 | b. | MCQ-1 | 5 Marks | [Modules 1 to 3](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf)| before Mid Term 2026| 
 | c. | MCQ-2 | 5 Marks | [Modules 4 to 6](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf)| 4th week of Mar. 2026 | 
 | d. | Certification Course (optional) | 5 / 10 Marks | | |
