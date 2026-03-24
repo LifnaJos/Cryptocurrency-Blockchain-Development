@@ -60,7 +60,6 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 2.2 Smart Contracts: Concept, Structure, and Applications, Overview of Decentralized Applications (DApps) and Token Standards (ERC-20, ERC-721, etc.), Security Aspects of Blockchain: Attacks, Challenges, and Mitigation Techniques
 
 * Theory : [PPT-Module-2](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M2-NEP-Sem6-CBD-Student.pdf)
-* Online Materials : 
   
 #### Module - 3: Cryptocurrency Ecosystem and Wallets (6 Hours)
 3.1 Popular Cryptocurrencies: Bitcoin, Ethereum, Ripple, and Altcoins, Cryptocurrency Mining: Mechanisms, Challenges, and Rewards, Cryptocurrency Wallets: Hot vs. Cold Wallets, Multi-Signature Wallets.
