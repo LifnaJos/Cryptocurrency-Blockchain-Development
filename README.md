@@ -59,7 +59,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 2.2 Smart Contracts: Concept, Structure, and Applications, Overview of Decentralized Applications (DApps) and Token Standards (ERC-20, ERC-721, etc.), Security Aspects of Blockchain: Attacks, Challenges, and Mitigation Techniques
 
-* Theory : [PPT-Module-2](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M2-NEP-Sem-6-CBD-Student.pdf)
+* Theory : [PPT-Module-2](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M2-NEP-Sem6-CBD-Student.pdf)
 * Online Materials : 
   
 #### Module - 3: Cryptocurrency Ecosystem and Wallets (6 Hours)
@@ -67,7 +67,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 3.2 Securing Wallets: Threats, Recovery Methods, and Best Practices, Cryptocurrency Exchanges: Types, Trading Mechanisms, and Risks, Regulatory and Legal Frameworks for Cryptocurrencies Globally
 
-* Theory : [PPT-theory](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M3-NEP-Sem-6-CBD-Faculty.pdf)
+* Theory : [PPT-Module 3](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M3-NEP-Sem-6-CBD.pdf)
     
 #### Module - 4: Smart Contracts and Development (7 Hours)
 4.1 Introduction to Solidity Programming Language, Setting Up Development Environments: Truffle, Ganache, and Remix IDE, Writing and Deploying Basic Smart Contracts, Smart Contract Lifecycle, Gas Optimization, and Fees
@@ -75,6 +75,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 4.2 Advanced Solidity Concepts: Libraries, Modifiers, and Events, Debugging, Testing, and Security Best Practices for Smart Contracts, Integration of Smart Contracts with Blockchain Networks
 
 * Theory :
+  - [PPT-Module 4](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M4-NEP-Sem-6-CBD.pdf)
   - [Theory for Solidity Programming](https://docs.soliditylang.org/en/v0.8.21/)
   - [Solidity Documentation,](https://docs.soliditylang.org/_/downloads/en/v0.8.21/pdf/)
   - [Solidity Quick Guide](https://drive.google.com/file/d/1bR6xR5uMcJ5tctxCAvHwTFef7Gyw8CHg/view?usp=sharing)
@@ -92,7 +93,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 5.2 Building and Deploying a Simple DApp on Ethereum Testnet, Integrating Cryptocurrency Payments in DApps Using Payment Gateways, Performance Optimization and Scaling Solutions for DApps, Testing and Deploying DApps to Production Environments
 
-* Theory:  
+* Theory:  [PPT-Module 5]()
 * Online Materials:
   - [Setting up a Private Ethereum Blockchain using Geth,](https://github.com/LifnaJos/Private-Ethereum-Blockchain-setup-using-Geth#readme)
   - [Geth in Developers mode](https://github.com/LifnaJos/Geth-in-Developer-Mode#readme)
