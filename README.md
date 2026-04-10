@@ -92,7 +92,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 5.2 Building and Deploying a Simple DApp on Ethereum Testnet, Integrating Cryptocurrency Payments in DApps Using Payment Gateways, Performance Optimization and Scaling Solutions for DApps, Testing and Deploying DApps to Production Environments
 
-* Theory:  [PPT-Module 5]()
+* Theory:  [PPT-Module 5](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M5-NEP-Sem-6-CBD.pdf)
 * Online Materials:
   - [Setting up a Private Ethereum Blockchain using Geth,](https://github.com/LifnaJos/Private-Ethereum-Blockchain-setup-using-Geth#readme)
   - [Geth in Developers mode](https://github.com/LifnaJos/Geth-in-Developer-Mode#readme)
