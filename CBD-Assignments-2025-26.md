@@ -12,6 +12,7 @@
 # Assignment - 2
 #### Date of Preparation : 15th April 2026
 #### Date of Submission : 21st April 2026
+**Note : ** Among the 25 write any 10 programs on paper and submit .
 1. Write a Solidity program to store a number in a contract and retrieve it using getter and setter functions.
 2. Write a Solidity function to calculate and return the sum of two integers.
 3. Write a Solidity contract that uses a constructor to initialize a state variable.
@@ -35,3 +36,5 @@
 21. Write a Solidity contract using a modifier to restrict access to only the owner.
 22. Write a Solidity program to emit and handle events.
 23. Write a Solidity contract demonstrating inheritance between two contracts.
+24. Write a Solidity contract to demonstrate the use of a function modifier that restricts access so that only the contract owner can execute a specific function.
+25. Write a Solidity program to demonstrate the use of events, where an event is emitted whenever a user deposits Ether into the contract.
