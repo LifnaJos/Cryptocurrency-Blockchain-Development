@@ -12,7 +12,8 @@
 # Assignment - 2
 #### Date of Preparation : 15th April 2026
 #### Date of Submission : 20th April 2026
-**Note :** <span style="color:blue"> Among the 25 write any 10 programs on paper and submit.</span>
+**Note :** 
+$${\color{blue}  Among \space the\space  25\space  write \space  any \space  10 \space programs \space  on \space paper \space  and \space submit. }$$
 
 1. Write a Solidity program to store a number in a contract and retrieve it using getter and setter functions.
 2. Write a Solidity function to calculate and return the sum of two integers.
