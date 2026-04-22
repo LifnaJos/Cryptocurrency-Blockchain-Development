@@ -3,9 +3,9 @@
 Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Pradyna Raut 
 
 ## 1. Important Documents
-| Theory Syllabus | Lab Syllabus | CBD Lab Instructions | Tutorial- MT | Assignments |
-| :------------- | :--------: | :------------: | :-----------: | :-----------: |
-| [Th-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf) | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |  [CBD Lab](https://docs.google.com/document/d/1vpoUgsJ3HfarDazFO9ypSTvnc-QYx_6wqFCMA_91xJs/edit?usp=sharing) | [Tutorial-MT](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CBD-Sem6-Tutorial-Updated.pdf)| [Assignments](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CBD-Assignments-2025-26.md) |
+| Theory Syllabus | Lab Syllabus | CBD Lab Instructions | Tutorial- MT | Assignments | Index Page |
+| :------------- | :--------: | :------------: | :-----------: | :-----------: | :-----------: |
+| [Th-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPC62-CBD-TheorySyllabus.pdf) | [Lab-Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |  [CBD Lab](https://docs.google.com/document/d/1vpoUgsJ3HfarDazFO9ypSTvnc-QYx_6wqFCMA_91xJs/edit?usp=sharing) | [Tutorial-MT](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CBD-Sem6-Tutorial-Updated.pdf)| [Assignments](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CBD-Assignments-2025-26.md) | [IndexPage](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/CBD-NEP-IndexPage(2025-26).pdf) |
 
 ## 2. Evaluation Scheme
 | No | Rubrics | Marks | Document | Schedule |
