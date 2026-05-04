@@ -117,7 +117,7 @@ Faculty Incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-
 
 6.2 Case Study: End-to-End Development and Deployment of a Blockchain-Based Solution for any domain
 
-* Theory: 
+* Theory: [PPT-Theory](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/M6-NEP-Sem-6-CBD.pdf)
 
 ## 6. Textbooks 
 1. "Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications" by Imran Bashir
